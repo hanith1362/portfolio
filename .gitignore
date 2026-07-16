@@ -1,0 +1,4 @@
+# protect from Jekyll
+.DS_Store
+node_modules/
+uploads/
